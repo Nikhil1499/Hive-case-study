@@ -38,6 +38,7 @@ For this assignment, you will be working with a public clickstream dataset of a 
 You will find the data in the link given below.
 
 https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv
+
 https://e-commerce-events-ml.s3.amazonaws.com/2019-Nov.csv
 
  
